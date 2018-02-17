@@ -109,6 +109,9 @@
 							com.apple.InAppPurchase = {
 								enabled = 0;
 							};
+							com.apple.Push = {
+								enabled = 0;
+							};
 							com.apple.Siri = {
 								enabled = 0;
 							};

@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Face Creator
 //
-//  Created by Joey Li on 1/1/18.
-//  Copyright © 2018 Joey Li. All rights reserved.
+//  Created by Joey Li on 1/1/19.
+//  Copyright © 2019 Joey Li. All rights reserved.
 //
 
 import UIKit

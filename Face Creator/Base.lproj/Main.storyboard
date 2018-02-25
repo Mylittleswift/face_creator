@@ -623,8 +623,8 @@
                                 </connections>
                             </button>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" semanticContentAttribute="spatial" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Face Creator" textAlignment="center" lineBreakMode="middleTruncation" baselineAdjustment="alignBaselines" minimumFontSize="18" translatesAutoresizingMaskIntoConstraints="NO" id="xyH-Oz-qh2">
-                                <rect key="frame" x="-14" y="127" width="403" height="43"/>
-                                <fontDescription key="fontDescription" type="boldSystem" pointSize="36"/>
+                                <rect key="frame" x="-14" y="126.99999999999999" width="403" height="50.333333333333329"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="42"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -1838,11 +1838,11 @@
         <segue reference="Wur-RH-FeK"/>
         <segue reference="OAQ-L4-hWt"/>
         <segue reference="Ytf-Lx-orY"/>
-        <segue reference="aLb-wI-znI"/>
+        <segue reference="ppL-xm-Ecd"/>
         <segue reference="x04-Hb-Flw"/>
         <segue reference="dSn-rg-ol5"/>
-        <segue reference="QBj-Qx-eIo"/>
-        <segue reference="ofS-pJ-GXG"/>
+        <segue reference="P49-iv-Qww"/>
+        <segue reference="pIx-63-Hpc"/>
         <segue reference="bcR-SS-ODv"/>
         <segue reference="RML-ib-tk7"/>
         <segue reference="O6N-8S-UI7"/>
